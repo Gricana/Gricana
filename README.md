@@ -1,18 +1,22 @@
 ## Hi there 👋
 
+🌟 **Passionate backend developer** with a strong focus on building scalable and efficient server-side solutions. Skilled in Python and various web frameworks, I excel at tackling complex problems and optimizing backend systems.
 
-Dedicated backend developer with a deep enthusiasm for crafting scalable and efficient server-side solutions. Experienced in Python and various web frameworks, I thrive on solving complex challenges and optimizing backend systems. Always eager to explore new technologies and methodologies to enhance performance and deliver robust solutions. Committed to continuous learning and improvement in the dynamic world of backend development.
+👨‍🏫 **Experienced Mentor**: My experience as a mentor has honed my ability to teach and guide others effectively, fostering their growth in backend development.
 
+🔍 **Continuous Learner**: Continuously exploring new technologies and approaches, I am dedicated to enhancing performance and delivering robust, high-quality solutions.
 
-## Contact Me
+📚 **Committed to Improvement**: Always committed to learning and adapting in the ever-evolving field of backend development.
+
+## Contact Me 📞
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/mas_gae)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alexgoryachev2904@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/masgae76/)
 
-## Technologies I Work With
+## Technologies I Work With 🛠️
 
-### Backend Development
+### Backend Development 🖥️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -21,12 +25,12 @@ Dedicated backend developer with a deep enthusiasm for crafting scalable and eff
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Cloud & DevOps
+### Cloud & DevOps ☁️
 ![Yandex Cloud](https://img.shields.io/badge/Yandex_Cloud-FF6F00?style=flat&logo=yandex&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-### Tools & Technologies
+### Tools & Technologies 🔧
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-40C463?style=flat&logo=qt&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -36,3 +40,4 @@ Dedicated backend developer with a deep enthusiasm for crafting scalable and eff
 ![Unittests](https://img.shields.io/badge/Unittests-8C8C8C?style=flat&logo=python&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-1F77C1?style=flat&logo=microsoft&logoColor=white)
+![Coverage](https://img.shields.io/badge/Coverage-2E86C1?style=flat&logo=python&logoColor=white)
