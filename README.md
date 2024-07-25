@@ -52,4 +52,5 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gricana&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gricana&layout=compact&theme=radical)
-![Visitor Count](https://profile-counter.glitch.me/gricana/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=gricana)
+
