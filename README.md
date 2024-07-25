@@ -31,3 +31,4 @@ Dedicated backend developer with a deep enthusiasm for crafting scalable and eff
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
 ![Unittests](https://img.shields.io/badge/Unittests-8C8C8C?style=flat&logo=python&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-1F77C1?style=flat&logo=microsoft&logoColor=white)
