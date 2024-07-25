@@ -50,8 +50,7 @@
 
 ## GitHub Stats 📊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gricana&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gricana&show_icons=true&hide_title=true&count_private=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gricana&layout=compact&theme=radical)
-
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=gricana&theme=github)
 ![Visitor Count](https://profile-counter.glitch.me/gricana/count.svg)
