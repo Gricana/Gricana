@@ -41,3 +41,11 @@
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white)
 ![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-1F77C1?style=flat&logo=microsoft&logoColor=white)
 ![Coverage](https://img.shields.io/badge/Coverage-2E86C1?style=flat&logo=python&logoColor=white)
+
+## GitHub Stats 📊
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gricana&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gricana&layout=compact&theme=radical)
+
+![Visitor Count](https://profile-counter.glitch.me/gricana/count.svg)
